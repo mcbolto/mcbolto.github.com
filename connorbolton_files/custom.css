@@ -1,0 +1,72 @@
+/*
+** your custom styling goes here
+*/
+
+.news {
+	font-size: 18px;
+	font-weight: 300;
+}
+
+.newsdate {
+	/*color: #F66733; /* Clemson */
+	color: #4E2A84; /* Northwestern */
+}
+
+.venue {
+	font-weight: 500;
+	font-size: 15px;
+}
+
+
+.jobmarket {
+	font-weight: 500;
+
+}
+
+.statement_title {
+	text-align: center;
+}
+
+.statement_name {
+	text-align: center;
+	margin-bottom: 15px;
+	margin-top: 12px;
+}
+
+.statement_para {
+	margin-bottom: 10px;
+	margin-top: 6px;
+}
+
+.statement_paper {
+	color: #0046A7;
+}
+
+
+/* Nav look and feel */
+.nav-pills>.active>a, .nav-pills>.active>a:hover, .nav-pills>.active>a:focus {
+	color: #fff;
+    background-color: #836EAA;
+    font-weight: 600;
+    font-size: 15pt;
+    margin: 10px;
+}
+
+.nav-pills>li>a {
+	font-size: 15pt;	
+	margin: 10px;
+}
+
+.nav-pills {
+	border-color: #836EAA;
+	border-style: solid;
+	border-width: 1px;
+	border-radius: 10px;
+}
+
+.borderbutton {
+	border-color: #836EAA;
+	border-style: solid;
+	border-width: 1px;
+	border-radius: 10px;
+}
